@@ -1,0 +1,10 @@
+--honeydew: #D0E2D8ff;
+--reseda-green: #748B7Dff;
+--reseda-green-2: #6C7362ff;
+--cambridge-blue: #8EBBA7ff;
+--dark-slate-gray: #33463Aff;
+--paynes-gray: #627375ff;
+--dark-green: #162815ff;
+--ebony: #586655ff;
+--black: #000000ff;
+--cadet-gray: #99A4A4ff;
