@@ -32,7 +32,7 @@ export const createTRPCRouter = t.router;
 export const createCallerFactory = t.createCallerFactory;
 export const baseProcedure = t.procedure;
 
-export const protectedProcedire = t.procedure.use(async function isAuthed(
+export const protectedProcedure = t.procedure.use(async function isAuthed(
 	opts
 ) {
 	const { ctx } = opts;
